@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SQLite CRUD - NoteApp - Kotlin</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter description…</string>
+    <string name="add">Add</string>
+    <string name="settings">settings</string>
+    <string name="search">Search</string>
+    <string name="add_note">Add Note</string>
+    <string name="share_note">share note</string>
+    <string name="copy_note">copy note</string>
+    <string name="tags_note">tags note</string>
+    <string name="delete_note">delete note</string>
+    <string name="del_dlg_ok_btn">OK</string>
+    <string name="del_dlg_ccl_btn">Cancel</string>
+    <string name="sort">Sorting</string>
+    <string name="helper">Helper</string>
+    <string name="del_dlg_note_ttl">Removing</string>
+    <string name="del_dlg_note_msg">Do you really want to delete this note</string>
+</resources>

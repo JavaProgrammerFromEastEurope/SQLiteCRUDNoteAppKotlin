@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/drawable-anydpi/ic_action_add.xml" value="0.240625" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/drawable-anydpi/ic_action_alert.xml" value="0.240625" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/drawable-anydpi/ic_action_search.xml" value="0.240625" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/drawable-anydpi/ic_gradient_delete_rectangle.xml" value="0.240625" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.240625" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/layout-v21/activity_add_note.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/layout/activity_add.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/layout/activity_add_note.xml" value="0.25" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/layout/activity_main.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/layout/activity_row.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/layout/activity_tips.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/layout/row.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/SQLiteCRUDNoteAppKotlin/app/src/main/res/menu/main_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
