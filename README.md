@@ -1,2 +1,1 @@
 # SQLiteCRUDNoteAppKotlin
-# SQLiteCRUDNoteAppKotlin
